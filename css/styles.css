@@ -9,3 +9,7 @@ h1 {
 label {
   color: #FFFFFF;
 }
+
+#favelist {
+  display: none;
+}
