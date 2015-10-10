@@ -11,7 +11,7 @@ This webpage contains a form put together using JQuery scripts to demonstrate us
 ## Setup
 
 * Load browser of choice
-* Navigate to
+* Navigate to http://tiffbogus.github.io/jqueryreview/
 * Fill out form
 * Enjoy!
 
