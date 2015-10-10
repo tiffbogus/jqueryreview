@@ -2,6 +2,10 @@ body {
   background-color: #E65C00;
 }
 
+.container {
+  width: 70%;
+}
+
 h1 {
   color: #FFE680;
 }
@@ -12,4 +16,32 @@ label {
 
 #favelist {
   display: none;
+}
+
+li {
+  color: #FFFFFF;
+}
+
+.icecream {
+  font-weight: bold;
+}
+
+.music {
+  font-weight: bold;
+}
+
+.movie {
+  font-weight: bold;
+}
+
+.color {
+  font-weight: bold;
+}
+
+.season {
+  font-weight: bold;
+}
+
+.dinosaur {
+  font-weight: bold;
 }
